@@ -1,0 +1,18 @@
+{
+    "name": "EchoBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "b8507420-800b-11ee-a5ea-113146f18d38",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Projects\\EchoBot\\EchoBot.bot",
+    "overrides": null
+}
